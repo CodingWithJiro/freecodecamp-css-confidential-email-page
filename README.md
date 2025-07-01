@@ -17,6 +17,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/36deb572-ba22-4cd3-b751-9991be26c064/deploy-status)](https://confidential-email-page-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-confidential-email-page&left_text=repo%20views)
 
 ## ℹ️ A Confidential Email from Secret Service Dept.
 
