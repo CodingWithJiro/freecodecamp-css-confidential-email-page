@@ -1,4 +1,4 @@
-# 💻 Confidential Email Page
+# Confidential Email Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,17 +19,17 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-confidential-email-page&left_text=repo%20views)
 
-## ℹ️ A Confidential Email from Secret Service Dept.
+## A Confidential Email from Secret Service Dept.
 
 ![Screenshot of the project](./screenshot.png)
 
 This project simulates a confidential email message layout, styled to resemble a classified document.
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The Confidential Email Page is a creatively styled HTML-CSS mockup of a sensitive government document. It features warning labels, a fixed-width main layout, and sections of blurred text to imply redacted or hidden content.
 
@@ -37,7 +37,7 @@ The goal of this project was to practice creative use of CSS properties like `fi
 
 ---
 
-## ✨ Features
+## Features
 
 - Faux confidential document design using HTML and CSS only
 - Blurred redacted text using CSS `filter: blur()`
@@ -48,7 +48,7 @@ The goal of this project was to practice creative use of CSS properties like `fi
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to apply **CSS `filter: blur()`** for visual effects
 - The power of **pseudo-professional design using simple elements**
@@ -58,7 +58,7 @@ The goal of this project was to practice creative use of CSS properties like `fi
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -68,23 +68,23 @@ The goal of this project was to practice creative use of CSS properties like `fi
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://confidential-email-page-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://confidential-email-page-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
